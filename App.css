@@ -30,7 +30,13 @@
   z-index: 1;
   right: 0%;
 }
+.input-group-text{
+  background-color: white !important;
+}
 
+.competitor .form-control:focus{
+  box-shadow: none !important;
+}
 .dropdown-content a {
   color: black;
   padding: 12px 16px;
