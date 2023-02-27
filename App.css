@@ -37,6 +37,9 @@
   text-decoration: none;
   display: block;
 }
+.checkboxDiv label{
+  margin-inline-start: 0px !important;
+}
 
 .dropdown a:hover {background-color: #ddd;}
 
